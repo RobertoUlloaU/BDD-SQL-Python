@@ -1,0 +1,6 @@
+{
+  "server": "MI_SERVIDOR\\SQLEXPRESS",
+  "database": "SistemaCatequesis",
+  "user": "sa",
+  "password": "david"
+}
